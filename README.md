@@ -1,2 +1,1 @@
-# opa-envoy
-Playing around with OPA and Envoy
+Playing around with Opa and Envoy. 
