@@ -12,6 +12,6 @@ allow {
 
 action_allowed {
   http_request.method == "GET"
-  glob.match("/people", [], http_request.path)
+  glob.match("/ping", [], http_request.path)
 }
 
